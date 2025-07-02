@@ -18,4 +18,4 @@ jobs:
           python-version: '3.10'  # You can change the version if needed
 
       - name: Run Python Script
-        run: python hello.py
+        run: python hello1.py
